@@ -8,4 +8,8 @@ and enterprise-level development roles.
 
 ## Current projects
 
+* Hello World: Java console application
+
+* Hello World: Android app
+
 ## Links
