@@ -8,7 +8,7 @@ and enterprise-level development roles.
 
 ## Current projects
 
-* Hello World: Java console application
+* [Hello World: Java console application](https://github.com/dd-java-22/android-hello-world-kdilts13)
 
 * Hello World: Android app
 
